@@ -1,0 +1,10 @@
+
+L = input("Digite algo ")
+print ("O tipo primitivo desse algo é:", type(L))
+print("Contém espaços:", L.isspace())
+print("E um numero?:", L.isnumeric())
+print("E decimal?:", L.isdecimal())
+print("E alfabética?:", L.isalpha())
+print("E alfanumerico?:", L.isalnum())
+print("E maiuscula?:", L.isupper())
+print("E minuscula?:", L.islower())
