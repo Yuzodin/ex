@@ -20,9 +20,4 @@ while not acertou:
             print('O numero que pensei é maior... Tente novamnete: ')
         else:
             print('O numero que pensei é menor... Tente  novamente: ')    
-        
-       
-
-
-
     
